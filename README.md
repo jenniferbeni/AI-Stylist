@@ -39,7 +39,7 @@ Visualization:
 - t-SNE Visualization: Used t-SNE to analyze feature embeddings
 
 ## 🎯 To-Dos
-- Finish the CNN model
+- Finalize the CNN model
 - Improve the recommendation system with multi-modal learning
 - Integrate a real-world fashion dataset for better predictions
 - Develop a web app for interactive outfit suggestions
@@ -49,5 +49,4 @@ Visualization:
 If you have any questions or want to contribute, feel free to reach out! 😊
 
 - GitHub: jenniferbeni
-- Project Repository: AI-Stylist-
 
